@@ -1,1 +1,0 @@
-# Quant-Financial-Indicators
